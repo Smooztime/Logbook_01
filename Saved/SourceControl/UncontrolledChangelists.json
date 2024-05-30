@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/ThirdPerson/Maps/_GENERATED/crojjanasup118/Boolean_EC7A1F14.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GF/F0SMSGK69IC5KUKXJ31ZVO.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8C/16CLN3XWZAASNBZTEZBOIP.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Blueprints/Light.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/25/4IT8VZSX0ZMF2N7EKKD7RS.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/K8/Y7VF3USNMQZHTVZYXSR2RW.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DD/4CKF3RISRFETC0NJ3S9563.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1J/RHRLY9GH78PUF9HTZHSIX6.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/ThirdPerson/Maps/_GENERATED/crojjanasup118/Boolean_3EF5A07A.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/ThirdPerson/Maps/_GENERATED/crojjanasup118/Box_468F74F5.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Blueprints/OutOfBound.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Scripting/E_DamageTypes.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Blueprints/Traps/BP_BoxTrap.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Blueprints/Traps/BP_SwingTrap.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Blueprints/Traps/BP_TimedTrap.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/Blueprints/Traps/BP_BaseTrap.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HX/M4OHLHNC2O29A6NDET11Z6.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6W/CSZURKFUP45BDGNDJ36497.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/A9/6HCP79022IT4H2U8STXAT4.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LQ/7RE63QV7Y6UT3RFF0YVCUO.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Game1202_Lecture01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Lecture_VS01/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Lecture_VS01/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SY/1D9B7OBOWDLV5MD7THIMBW.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Lecture_VS01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LQ/7RE63QV7Y6UT3RFF0YVCUO.uasset",
+				"C:/Users/c.rojjanasup118/Documents/Game1202_Lecture/Lecture_01/Lecture_VS01/Content/Blueprints/BP_TextToggle.uasset"
+			]
+		}
+	]
+}
